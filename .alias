@@ -1,0 +1,7 @@
+alias bound_ports="lsof -iTCP -sTCP:LISTEN -P"
+alias c=clear
+alias ll='ls -al'
+alias llrt='ls -lrt'
+alias l.='ls -d .* --color=auto'
+alias dcc='docker-compose'
+
